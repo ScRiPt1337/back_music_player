@@ -17,7 +17,6 @@
 back_music_player  Its Extract audio url from video and play in background
 
 [![Python 3.8](https://img.shields.io/badge/python-3.8-yellow.svg)](https://www.python.org/)
-[![Python 3.8](https://img.shields.io/badge/back-music-player-0.1-red)](https://github.com/ScRiPt1337/back_music_player)
 
 
 ### Requirement
