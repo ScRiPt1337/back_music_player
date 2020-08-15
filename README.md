@@ -26,16 +26,16 @@ back_music_player  Its Extract audio url from video and play in background
 ### Example commands
 
 ```python
-    python3 main.py "https://www.youtube.com/watch?v=AuGIHznyuXk"
+    backmusic "https://www.youtube.com/watch?v=AuGIHznyuXk"
 ```
 
 ### Install
 ```python
-    pip install pyffuf
+    pip install backmusic
 ```
 
 ### Help
-* python3 main.py --help
+* backmusic --help
 
 
 
